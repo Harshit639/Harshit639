@@ -85,8 +85,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harshit639&theme=radical&background=000000)](https://git.io/streak-stats)
-<div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit639&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit639&show_icons=true&theme=radical)
- </div>
+
